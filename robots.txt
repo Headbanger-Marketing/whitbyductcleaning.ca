@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://whitbyductcleaning.ca/sitemap-index.xml

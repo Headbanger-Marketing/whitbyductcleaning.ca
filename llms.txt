@@ -1,2 +1,25 @@
 # Whitby Duct Cleaning
-HVAC services in Ontario.
+
+> Whitby Duct Cleaning is a local HVAC company serving Whitby, Durham, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 668-7214  |  Email: contact@whitbyductcleaning.ca  |  Website: https://whitbyductcleaning.ca
+
+## Key pages
+
+- [Home](https://whitbyductcleaning.ca/): Whitby Duct Cleaning homepage with service overview and FAQ
+- [About](https://whitbyductcleaning.ca/about/): About the company and service area
+- [Contact](https://whitbyductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://whitbyductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Whitby, Ontario
+- [Dryer Vent Cleaning](https://whitbyductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Whitby, Ontario
+- [Furnace & AC Cleaning](https://whitbyductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Whitby, Ontario
+- [HRV & Ventilation Cleaning](https://whitbyductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Whitby, Ontario
+- [Duct Sanitizing & Deodorizing](https://whitbyductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Whitby, Ontario
+- [Duct Sealing & Repair](https://whitbyductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Whitby, Ontario
+- [Commercial Duct Cleaning](https://whitbyductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Whitby, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Whitby are answered on the homepage.
